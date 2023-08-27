@@ -1,0 +1,16 @@
+#title{
+    text-align:centre;
+  
+  }
+  #description{
+    text-align:centre;
+    font-style:oblique;
+    margin-top:-10px;
+  
+  }
+  fieldset{
+    border:none;
+  }
+  body{
+    border: 10px solid black;
+  }
